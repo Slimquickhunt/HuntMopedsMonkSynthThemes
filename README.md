@@ -1,0 +1,1 @@
+This is a repo containing all past present and future monksynth themes I might make! if you want to suggest anything feel free to create an issue. If you have a better way to organize this lemme know because I rarely use github.
